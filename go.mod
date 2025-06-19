@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/aws/aws-lambda-go v1.49.0
-	github.com/redis/go-redis/v9 v9.9.0
+	github.com/redis/go-redis/v9 v9.10.0
 )
 
 require (
